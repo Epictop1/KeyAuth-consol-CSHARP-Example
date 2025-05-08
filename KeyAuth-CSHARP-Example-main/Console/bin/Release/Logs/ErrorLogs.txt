@@ -1,0 +1,37 @@
+4/26/2025 12:47:53 AM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: KeyAuth_Invalid
+4/26/2025 12:48:22 AM > SSL assertion fail, make sure you're not debugging Network. Disable internet firewall on router if possible. & echo: & echo If not, ask the developer of the program to use custom domains to fix this.
+4/26/2025 12:48:54 AM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:02:29 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:02:37 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:03:16 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:04:23 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:10:26 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/1/2025 11:11:13 PM > Failed to parse the timestamp from the server. Please ensure your device's date and time settings are correct.
+5/8/2025 10:57:43 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: 
+
+Timestamp: 1746734259
+Signature (hex): 6a670699e09df9df9d70f6f74ec436a13e3a3f4cbd91cddfaf587c0123df6d7f1367fab0a08ef386250c63afdecbe325fd4ff4119d9cdb6ba9a68b8999a5c00b
+{"success":true,"message":"Initialized","sessionid":"ofjMgnGBdi","appinfo":{"numUsers":"N\/A - Use fetchStats() function in latest example","numOnlineUsers":"N\/A - Use fetchStats() function in latest example","numKeys":"N\/A - Use fetchStats() function in latest example","version":"1.5.0","customerPanelLink":"https:\/\/keyauth.cc\/panel\/epictop1\/EPICTOOL\/"},"newSession":true,"nonce":"2AZds9cicBRLnpj69vdfdX4ahYL2K8YQ"}
+5/8/2025 10:58:09 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: 
+
+Timestamp: 1746734285
+Signature (hex): d62a773d236dab2ef56ccdaf720d317c6f55f39398a11f5721a8a5d0ac9ce89cd16ef084edf3dc667f9f217f27a09f168d59766356afae663c387f6d34e06c08
+{"success":true,"message":"Initialized","sessionid":"8xFTzYv8vy","appinfo":{"numUsers":"N\/A - Use fetchStats() function in latest example","numOnlineUsers":"N\/A - Use fetchStats() function in latest example","numKeys":"N\/A - Use fetchStats() function in latest example","version":"1.5.0","customerPanelLink":"https:\/\/keyauth.cc\/panel\/epictop1\/EPICTOOL\/"},"newSession":true,"nonce":"b8Ap22jSN2pcDtSQKdttcTJG19wGE2U8"}
+5/8/2025 11:01:38 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: 
+
+Timestamp: 1746734494
+Signature (hex): e35b1d1c1c3a519081ae288493dee67bf32a38f67de2b2196d7eaf1e68d717c588b6587c9b9f9c1b33b5797ea6f474cafcd343301d5a1a30cda4f5fe557bae03
+{"success":true,"message":"Initialized","sessionid":"XAD2ybFSOj","appinfo":{"numUsers":"N\/A - Use fetchStats() function in latest example","numOnlineUsers":"N\/A - Use fetchStats() function in latest example","numKeys":"N\/A - Use fetchStats() function in latest example","version":"1.5.0","customerPanelLink":"https:\/\/keyauth.cc\/panel\/epictop1\/EPICTOOL\/"},"newSession":true,"nonce":"GiYgjdsX3hAHpVLl1Wjt1OTjo6hDSD6h"}
+5/8/2025 11:02:48 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: 
+
+Timestamp: 1746734564
+Signature (hex): b0e370d2944b16ca3bdf930dd97c491f07c7556ef4a37d0e7ace234805e719edd1755ea8d03b49a30e40b52b4ea6ae237208b0ac1c1922ae4cda16a4a2d97804
+{"success":true,"message":"Initialized","sessionid":"xeaMamwxjW","appinfo":{"numUsers":"N\/A - Use fetchStats() function in latest example","numOnlineUsers":"N\/A - Use fetchStats() function in latest example","numKeys":"N\/A - Use fetchStats() function in latest example","version":"1.5.0","customerPanelLink":"https:\/\/keyauth.cc\/panel\/epictop1\/EPICTOOL\/"},"newSession":true,"nonce":"ZQ20c5uDkhnpYIQ5AYgAqD6XaBdk0dK6"}
+5/8/2025 11:04:19 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: 
+
+Timestamp: 1746734656
+Signature (hex): 44cefe5c3687113cefa76bb5490f511dd4e147e125f3f9e66e1e3af80587760641cfa839c38b55851de1e8a92f743dd087c246d4338ad6d638f5a18937101f03
+{"success":true,"message":"Initialized","sessionid":"Q43LxDlVXi","appinfo":{"numUsers":"N\/A - Use fetchStats() function in latest example","numOnlineUsers":"N\/A - Use fetchStats() function in latest example","numKeys":"N\/A - Use fetchStats() function in latest example","version":"1.5.0","customerPanelLink":"https:\/\/keyauth.cc\/panel\/epictop1\/EPICTOOL\/"},"newSession":true,"nonce":"fQ5PrcQwK9q1FLlmJ3xqbL5ZBPJ6eR2K"}
+5/8/2025 11:12:59 PM > Connection failure. Please try again, or contact us for help.
+5/8/2025 11:14:02 PM > Connection failure. Please try again, or contact us for help.
+5/8/2025 11:14:14 PM > Connection failure. Please try again, or contact us for help.
